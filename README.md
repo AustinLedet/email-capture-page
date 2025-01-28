@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 # email-capture-page
+# email-capture-page
