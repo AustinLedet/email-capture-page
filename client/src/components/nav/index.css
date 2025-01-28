@@ -1,0 +1,20 @@
+nav { 
+    width: fit-content;
+    margin: auto;
+}
+
+ul.main-nav-container {
+    display: flex;
+}
+
+li.nav-item {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+}
+
+li.nav-item:hover {
+    background: blue;
+}
